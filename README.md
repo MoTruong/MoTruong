@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="MoTruong — Computer and Information Technology student building toward Full-stack Web development" width="100%">
+  <img src="./assets/profile-banner.svg" alt="MoTruong — Building toward Full-stack Web" width="100%">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## About Me
 
-I am a second-year student in the Computer and Information Technology field of study at the University of Science, Vietnam National University Ho Chi Minh City (HCMUS).
+I'm a second-year student in a group of majors focused on **Computer and Information Technology** at the **University of Science, Vietnam National University Ho Chi Minh City (HCMUS)**.
 
 I am building a broad software engineering foundation as I work toward full-stack web development. My focus is on writing maintainable code and learning through practical projects.
 
@@ -53,7 +53,7 @@ I am open to learning-oriented projects and open-source contributions with stude
 
 ## GitHub Overview
 
-My [public repositories](https://github.com/MoTruong?tab=repositories) show my current learning work.
+My [public repositories](https://github.com/MoTruong?tab=repositories) showcase the projects I am building as I learn.
 
 ## Beyond Code
 
