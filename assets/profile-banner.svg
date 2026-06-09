@@ -1,6 +1,22 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="banner-title banner-desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="banner-title banner-desc">
   <title id="banner-title">MoTruong software engineering profile banner</title>
   <desc id="banner-desc">A navy, blue, and cyan gradient banner introducing MoTruong, a software engineering student focused on backend development, databases, and algorithms.</desc>
+  <style>
+    .mobile-subtitle {
+      display: none;
+    }
+
+    @media (max-width: 700px) {
+      .desktop-subtitle,
+      .desktop-focus {
+        display: none;
+      }
+
+      .mobile-subtitle {
+        display: inline;
+      }
+    }
+  </style>
   <defs>
     <linearGradient id="background-gradient" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#07152f"/>
@@ -49,8 +65,12 @@
 
     <g font-family="Segoe UI, Arial, sans-serif" fill="#f8fafc">
       <text x="72" y="126" font-size="62" font-weight="700" letter-spacing="1">MoTruong</text>
-      <text x="74" y="178" font-size="20" font-weight="400" fill="#e0f2fe" textLength="500" lengthAdjust="spacingAndGlyphs">Software Engineering Student | Building toward Full-stack Web</text>
-      <text x="74" y="224" font-size="22" font-weight="600" fill="#a5f3fc">Backend • Databases • Algorithms</text>
+      <text class="desktop-subtitle" x="74" y="178" font-size="18" font-weight="400" fill="#e0f2fe">Software Engineering Student | Building toward Full-stack Web</text>
+      <text class="mobile-subtitle" x="74" y="176" font-size="36" font-weight="500" fill="#e0f2fe">
+        <tspan x="74" dy="0">Software Engineering Student</tspan>
+        <tspan x="74" dy="44">Building toward Full-stack Web</tspan>
+      </text>
+      <text class="desktop-focus" x="74" y="224" font-size="22" font-weight="600" fill="#a5f3fc">Backend • Databases • Algorithms</text>
     </g>
 
     <rect x="72" y="249" width="118" height="4" rx="2" fill="#67e8f9" opacity="0.9"/>
