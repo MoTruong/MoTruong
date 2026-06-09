@@ -13,9 +13,9 @@
 
 ## About Me
 
-I am a second-year student in the Computer and Information Technology group at the University of Science, Vietnam National University Ho Chi Minh City (HCMUS).
+I am a second-year student in the Computer and Information Technology field of study at the University of Science, Vietnam National University Ho Chi Minh City (HCMUS).
 
-I am building a broad software engineering foundation as I work toward Full-stack Web development. My focus is on writing maintainable code and learning through practical projects.
+I am building a broad software engineering foundation as I work toward full-stack web development. My focus is on writing maintainable code and learning through practical projects.
 
 ## Current Focus
 
@@ -53,20 +53,7 @@ I am open to learning-oriented projects and open-source contributions with stude
 
 ## GitHub Overview
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MoTruong&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=60A5FA&amp;icon_color=60A5FA&amp;text_color=E5E7EB">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MoTruong&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=2563EB&amp;icon_color=2563EB&amp;text_color=1F2937">
-    <img src="https://github-readme-stats.vercel.app/api?username=MoTruong&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=2563EB&amp;icon_color=2563EB&amp;text_color=1F2937" alt="MoTruong's GitHub statistics" width="49%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MoTruong&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=60A5FA&amp;icon_color=60A5FA&amp;text_color=E5E7EB">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MoTruong&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=2563EB&amp;icon_color=2563EB&amp;text_color=1F2937">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoTruong&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=2563EB&amp;icon_color=2563EB&amp;text_color=1F2937" alt="Most used languages across MoTruong's public GitHub repositories" width="49%">
-  </picture>
-</p>
-
-> Language stats are based on public repository contents and do not represent proficiency.
+My [public repositories](https://github.com/MoTruong?tab=repositories) show my current learning work.
 
 ## Beyond Code
 
@@ -79,14 +66,14 @@ Gaming · Reading · Music · Sports
 
 Mình là sinh viên năm hai thuộc nhóm ngành Máy tính và Công nghệ thông tin tại Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Thành phố Hồ Chí Minh (HCMUS).
 
-Mình đang xây dựng nền tảng kỹ thuật phần mềm rộng để hướng đến phát triển Web Full-stack, với trọng tâm là mã nguồn dễ bảo trì và các dự án thực tế.
+Mình đang xây dựng nền tảng kiến thức kỹ thuật phần mềm vững chắc để hướng đến phát triển web full-stack, với trọng tâm là mã nguồn dễ bảo trì và các dự án thực tế.
 
 ## Trọng tâm hiện tại
 
 - Nền tảng backend với Node.js
 - Cơ sở dữ liệu và SQL Server
 - Thuật toán và giải quyết vấn đề
-- Sự tương tác giữa frontend và backend
+- Cách frontend và backend phối hợp trong một hệ thống hoàn chỉnh
 
 ## Công nghệ
 
