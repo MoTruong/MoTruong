@@ -1,0 +1,59 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">MoTruong software engineering profile banner</title>
+  <desc id="banner-desc">A navy, blue, and cyan gradient banner introducing MoTruong, a software engineering student focused on backend development, databases, and algorithms.</desc>
+  <defs>
+    <linearGradient id="background-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07152f"/>
+      <stop offset="0.55" stop-color="#0b4ea2"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+    <radialGradient id="left-glow" cx="0.18" cy="0.42" r="0.62">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="right-glow" cx="0.82" cy="0.5" r="0.42">
+      <stop offset="0" stop-color="#67e8f9" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#67e8f9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent-gradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#a5f3fc"/>
+    </linearGradient>
+    <clipPath id="rounded-banner">
+      <rect width="1200" height="320" rx="28" ry="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded-banner)">
+    <rect width="1200" height="320" fill="url(#background-gradient)"/>
+    <rect width="1200" height="320" fill="url(#left-glow)"/>
+    <rect width="1200" height="320" fill="url(#right-glow)"/>
+
+    <g fill="none" stroke="#a5f3fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.24" aria-hidden="true">
+      <path d="M760 64 H860 L900 104 H1012"/>
+      <path d="M812 250 H908 L946 212 H1138"/>
+      <path d="M1038 76 H1110 L1142 108 V154"/>
+      <circle cx="760" cy="64" r="4" fill="#a5f3fc" stroke="none"/>
+      <circle cx="1012" cy="104" r="4" fill="#a5f3fc" stroke="none"/>
+      <circle cx="812" cy="250" r="4" fill="#a5f3fc" stroke="none"/>
+      <circle cx="1138" cy="212" r="4" fill="#a5f3fc" stroke="none"/>
+      <circle cx="1038" cy="76" r="4" fill="#a5f3fc" stroke="none"/>
+      <circle cx="1142" cy="154" r="4" fill="#a5f3fc" stroke="none"/>
+    </g>
+
+    <g fill="none" stroke="url(#accent-gradient)" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" opacity="0.94" aria-hidden="true">
+      <path d="M920 105 L866 160 L920 215"/>
+      <path d="M1032 105 L1086 160 L1032 215"/>
+      <path d="M1002 92 L952 228"/>
+    </g>
+
+    <g font-family="Segoe UI, Arial, sans-serif" fill="#f8fafc">
+      <text x="72" y="126" font-size="62" font-weight="700" letter-spacing="1">MoTruong</text>
+      <text x="74" y="178" font-size="20" font-weight="400" fill="#e0f2fe" textLength="500" lengthAdjust="spacingAndGlyphs">Software Engineering Student | Building toward Full-stack Web</text>
+      <text x="74" y="224" font-size="22" font-weight="600" fill="#a5f3fc">Backend • Databases • Algorithms</text>
+    </g>
+
+    <rect x="72" y="249" width="118" height="4" rx="2" fill="#67e8f9" opacity="0.9"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="318" rx="27" ry="27" fill="none" stroke="#bae6fd" stroke-opacity="0.2" stroke-width="2"/>
+</svg>
